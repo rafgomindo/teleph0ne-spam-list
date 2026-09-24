@@ -10,7 +10,7 @@
 //   4. data/removals.csv: numbers that must never be listed (wrongly reported)
 import { readFileSync, writeFileSync } from "node:fs";
 
-const REPORTS_URL = "https://teleph0ne.netlify.app/spam_list.csv";
+const REPORTS_URL = "https://teleph0ne.ram0nes.com/spam_list.csv";
 const CATEGORIES = new Set(["spam", "scam", "telemarketing", "robocall"]);
 const NUMBER = /^\+[1-9][0-9]{7,14}$/;
 const RANGE = /^\+[1-9][0-9]{1,9}$/;
