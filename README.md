@@ -1,6 +1,6 @@
 # Teleph0ne spam list
 
-The shared list of spam, scam and telemarketing numbers used by the [Teleph0ne](https://teleph0ne-spam.netlify.app) phone app for Android.
+The shared list of spam, scam and telemarketing numbers used by the [Teleph0ne](https://teleph0ne.ram0nes.com) phone app for Android.
 Every phone downloads [`spam_list.csv`](spam_list.csv) and checks incoming calls against it **on the phone**: nobody learns who calls you.
 
 ## Format
