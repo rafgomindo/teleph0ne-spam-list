@@ -1,0 +1,5 @@
+number,severity,category,source
+# Reviewed additions. One number per line, in international format (+33...).
+# severity: 2 = warn, 3 = block, 5 = critical. category: spam, scam, telemarketing or robocall.
+# source: a link or a short explanation (a regulator's notice, a news article, a company's own page...).
+# Business, robocall and scam numbers only: never a private person's number.

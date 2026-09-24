@@ -1,0 +1,24 @@
+prefix,country,source
+# Number ranges that regulators reserve for telemarketing. Calls from them ring labelled
+# "Telemarketing" in Teleph0ne, and are only blocked if the user asks for it.
++33162,FR,ARCEP numéros polyvalents vérifiés (2023)
++33163,FR,ARCEP numéros polyvalents vérifiés (2023)
++33270,FR,ARCEP numéros polyvalents vérifiés (2023)
++33271,FR,ARCEP numéros polyvalents vérifiés (2023)
++33377,FR,ARCEP numéros polyvalents vérifiés (2023)
++33378,FR,ARCEP numéros polyvalents vérifiés (2023)
++33424,FR,ARCEP numéros polyvalents vérifiés (2023)
++33425,FR,ARCEP numéros polyvalents vérifiés (2023)
++33568,FR,ARCEP numéros polyvalents vérifiés (2023)
++33569,FR,ARCEP numéros polyvalents vérifiés (2023)
++33948,FR,ARCEP numéros polyvalents vérifiés (2023)
++33949,FR,ARCEP numéros polyvalents vérifiés (2023)
++339475,FR (Guadeloupe / St-Martin / St-Barthélemy),ARCEP (2023)
++339476,FR (Guyane),ARCEP (2023)
++339477,FR (Martinique),ARCEP (2023)
++339478,FR (Réunion / Mayotte),ARCEP (2023)
++339479,FR (Réunion / Mayotte),ARCEP (2023)
++34400,ES,Prefijo 400 para llamadas comerciales (obligatorio desde el 17/10/2026)
++56809,CL,Subtel: prefijo 809 para llamadas publicitarias (13/08/2025)
++51500,PE,D.S. 018-2026-MTC: prefijo 500 para llamadas publicitarias
++55303,BR,Anatel: prefixo 0303 para telemarketing (opcional desde 08/2025)
